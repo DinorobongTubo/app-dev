@@ -91,13 +91,6 @@ This movie is so amazing! :joy: :heart:
 
 My favorite superhero is ==Spider-Man==.
 
-## Subscript
-
-H~2~O
-
-## Superscript
-
-X^2^
 
 ---
 
